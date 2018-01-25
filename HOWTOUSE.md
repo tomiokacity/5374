@@ -15,7 +15,3 @@
 
 ##ライセンスについて
 本アプリ及びソースコードの著作権はCode for Kanazawaに帰属します。
-
-## Contributers in YOUR_CITY
-
-[YOUR_NAME](http://github.com/YOUR_NAME)
